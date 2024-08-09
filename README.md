@@ -9,11 +9,11 @@ Creating high-quality, diverse 3D models has always been a complex and time-cons
 ![image](https://github.com/user-attachments/assets/72ed1622-5840-4e69-84d4-3cdd3b98f0ab)
 
 
-gif to obj file convertion
+<h2>gif to obj file convertion</h2>
 ![image](https://github.com/user-attachments/assets/c3c468a2-20fa-40e9-bdcb-42a5a94b8899)
 
 
-conclusion 
+<h2>conclusion</h2> 
 Shapegenai project effectively generates and understands 3D shapes
 Outperforms traditional methods in both quality and efficiency
 Potential to revolutionize various industries requiring 3D modeling 
